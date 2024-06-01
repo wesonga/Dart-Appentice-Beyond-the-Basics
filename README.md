@@ -1,4 +1,4 @@
-# Dart Apprentice Fundamentals Solutions
+# Dart Apprentice Beyond the Basics Solutions
 
 Welcome to the repository for my solutions to the challenges and exercises from the book **"Dart Apprentice Beyond the Basics"**. This repository contains my implementations and solutions as I progress through the book, which serves as an excellent resource for learning the Dart programming language.
 
@@ -56,7 +56,7 @@ To run the Dart programs in this repository, you need to have Dart installed on 
 ## Usage
 To run the solutions for a particular chapter, navigate to the bin directory of the respective chapter's Dart project and use the dart command followed by challenge.dart. For example, to run the solutions for Chapter 2, use:
    ```sh
-   cd 02-Expressions-Variables-and-Constants/challenge/bin
+   cd 01-String-Manipulation/challenge/bin
    dart challenge.dart
 ```
 
